@@ -1,0 +1,4 @@
+Why Jenkins?
+Jenkins is a software that allows continuous integration. Jenkins will be installed on a server where the central build will take place. The following flowchart demonstrates a very simple workflow of how Jenkins works.
+
+Why Jenkins
